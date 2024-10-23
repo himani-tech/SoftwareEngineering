@@ -1,0 +1,4 @@
+
+Prescription ID: 1, Himani Singla, Address: 12 souvenir Street, tarneit, 3029, Australia, Sphere: -5.0, Cylinder: 2.0, Axis: 2.0, Exam Date: 05/12/24, Optometrist: Dr.Nandini
+Prescription ID: 1, Himani Singla, Address: 7 Sundial Blvd, Tarneit VIC, 3029, Sphere: -1.5, Cylinder: -2.2, Axis: 90.0, Exam Date: 05/12/24, Optometrist: Dr.Nandini
+Prescription ID: 2, Nandini Modi, Address: 12 Souvenir Street, Tarneit VIC, 3029, Sphere: 15.0, Cylinder: 1.0, Axis: 100.0, Exam Date: 10/10/24, Optometrist: Dr.DeepakSingla
